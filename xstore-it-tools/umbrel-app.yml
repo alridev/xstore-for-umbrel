@@ -13,7 +13,7 @@ website: https://it-tools.tech
 dependencies: []
 repo: https://github.com/CorentinTh/it-tools
 support: https://github.com/CorentinTh/it-tools/issues
-port: 8181
+port: 3003
 gallery:
   - https://i.imgur.com/T4iMU2O.png
 path: ""

@@ -13,7 +13,7 @@ website: https://github.com/Benphelps/Homepage
 dependencies: []
 repo: https://github.com/Benphelps/Homepage
 support: https://github.com/Benphelps/Homepage/issues
-port: 1110
+port: 3002
 gallery:
   - https://github.com/benphelps/homepage/raw/main/images/1.png
 path: ""
