@@ -4,7 +4,7 @@ services:
   app_proxy:
     environment:
       APP_HOST: xstore-g4f_server_1
-      APP_PORT: 80
+      APP_PORT: 8080
 
   server:
     image: hlohaus789/g4f:latest
