@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  app_proxy:
+    environment:
+      APP_HOST: xstore-it-tools
+      APP_PORT: 80
+
+  server:
+    image: ghcr.io/corentinth/it-tools:latest

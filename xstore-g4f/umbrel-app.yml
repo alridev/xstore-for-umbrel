@@ -1,0 +1,21 @@
+manifestVersion: 1
+id: xstore-g4f
+name: GPT4 Free
+category: AI
+version: "0.9.3"
+tagline: Decentralizing the AI industry
+icon: https://github.com/zcxw-code/xstore-for-umbrel/raw/main/xstore-assets/g4f.svg
+description: >
+ With over 1 million users, g4f enables you to utilise powerful language models by load balancing multiple providers, and bringing them all together to form a 100% Open source AI client.
+developer: Tekky
+website: https://g4f.ai
+dependencies: []
+repo: https://github.com/xtekky/gpt4free
+support: https://github.com/xtekky/gpt4free/issues
+port: 7204
+gallery:
+  - https://i.imgur.com/aoFMqzK.png
+defaultPassword: ""
+releaseNotes: ""
+submitter: zcxw-code
+submission:
