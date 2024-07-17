@@ -3,7 +3,7 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: xstore-g4f-server
+      APP_HOST: xstore-g4f_server_1
       APP_PORT: 80
 
   server:
@@ -12,6 +12,6 @@ services:
     volumes:
       - ${APP_DATA_DIR}/data/g4f:/app # Make sure your local config directory exists
     ports:
-          - '8080:8080'
-          - '1337:1337'
-          - '7900:7900'
+      - "8080:8080"
+      - "1337:1337"
+      - "7900:7900"

@@ -3,7 +3,7 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: xstore-it-tools
+      APP_HOST: xstore-it-tools_server_1
       APP_PORT: 80
 
   server:
