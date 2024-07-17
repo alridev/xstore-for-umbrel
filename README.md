@@ -12,6 +12,6 @@ https://github.com/zcxw-code/xstore-for-umbrel
 
 ## Apps
 
-![Homepage](https://github.com/zcxw-code/xstore-for-umbrel/raw/main/xstore-assets/homepage.svg)
-![IT Tools](https://github.com/zcxw-code/xstore-for-umbrel/raw/main/xstore-assets/it-tools.svg)
-![G4F](https://github.com/zcxw-code/xstore-for-umbrel/raw/main/xstore-assets/g4f.svg)   
+![Homepage](https://github.com/zcxw-code/xstore-for-umbrel-assets/raw/main/icons/homepage.svg)
+![IT Tools](https://github.com/zcxw-code/xstore-for-umbrel-assets/raw/main/icons/it-tools.svg)
+![G4F](https://github.com/zcxw-code/xstore-for-umbrel-assets/raw/main/icons/g4f.svg)   

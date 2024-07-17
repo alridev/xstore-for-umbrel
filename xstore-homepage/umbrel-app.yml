@@ -4,7 +4,7 @@ name: Homepage
 category: Dashboards
 version: "0.9.3"
 tagline: Self-hosted homepage
-icon: https://github.com/zcxw-code/xstore-for-umbrel/raw/main/xstore-assets/homepage.svg
+icon: https://github.com/zcxw-code/xstore-for-umbrel-assets/raw/main/icons/homepage.svg
 description: >
   A modern (fully static, fast), secure (fully proxied), highly customizable application dashboard with integrations for more than 25 services and translations for over 15 languages.
   Easily configured via YAML files (or discovery via docker labels).

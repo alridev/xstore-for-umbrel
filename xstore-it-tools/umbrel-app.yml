@@ -4,7 +4,7 @@ name: IT - Tools
 category: Developer Tools
 version: "0.9.3"
 tagline: Collection of handy online tools for developers, with great UX.
-icon: https://github.com/zcxw-code/xstore-for-umbrel/raw/main/xstore-assets/it-tools.svg
+icon: https://github.com/zcxw-code/xstore-for-umbrel-assets/raw/main/icons/it-tools.svg
 description: >
   This wonderful website, made with ❤ by Corentin Thomasset , aggregates useful tools for developer and people working in IT. If you find it useful, please feel free to share it to people you think may find it useful too and don't forget to bookmark it in your shortcut bar! IT Tools is open-source (under the MIT license) and free, and will always be, but it costs me money to host and renew the domain name. If you want to support my work, and encourage me to add more tools, please consider supporting by sponsoring me.
 
