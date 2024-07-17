@@ -3,11 +3,15 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: xstore-homepage-server
-      APP_PORT: 3000
+      APP_HOST: xstore-g4f-server
+      APP_PORT: 8085
 
   server:
-    image: ghcr.io/gethomepage/homepage:v0.9.3
+    image: hlohaus789/g4f:latest
+    shm_size: 2gb
     volumes:
-      - ${APP_DATA_DIR}/data/homepage:/app/config # Make sure your local config directory exists
-      - /var/run/docker.sock:/var/run/docker.sock:ro # (optional) For docker integrations
+      - ${APP_DATA_DIR}/data/g4f:/app # Make sure your local config directory exists
+    ports:
+          - '8085:8080'
+          - '1335:1337'
+          - '7905:7900'

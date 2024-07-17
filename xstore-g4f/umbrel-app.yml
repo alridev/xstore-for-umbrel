@@ -12,7 +12,7 @@ website: https://g4f.ai
 dependencies: []
 repo: https://github.com/xtekky/gpt4free
 support: https://github.com/xtekky/gpt4free/issues
-port: 7204
+port: 8085
 gallery:
   - https://i.imgur.com/aoFMqzK.png
 defaultPassword: ""

@@ -5,7 +5,10 @@ services:
     environment:
       APP_HOST: xstore-homepage-server
       APP_PORT: 3000
-
+    ports:
+      - "1110:3000"
+    
+  
   server:
     image: ghcr.io/gethomepage/homepage:v0.9.3
     volumes:
