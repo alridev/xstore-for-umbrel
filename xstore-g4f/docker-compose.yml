@@ -9,8 +9,6 @@ services:
   server:
     image: hlohaus789/g4f:latest
     shm_size: 2gb
-    volumes:
-      - ${APP_DATA_DIR}/data/g4f:/app # Make sure your local config directory exists
     ports:
       - "8080:8080"
       - "1337:1337"
