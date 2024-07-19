@@ -12,8 +12,6 @@ https://github.com/zcxw-code/xstore-for-umbrel
 
 ## Apps
 
-## Apps
-
 | App Name            | Version on project | 
 | ------------------- | ------- | 
 | <img alt="Homepage" src="https://github.com/zcxw-code/xstore-for-umbrel-assets/raw/main/icons/homepage.svg" width="16">  Homepage            | 0.9.3   |
