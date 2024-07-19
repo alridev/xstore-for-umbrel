@@ -18,5 +18,5 @@ https://github.com/zcxw-code/xstore-for-umbrel
 | ------------------- | ------- | 
 | <img alt="Homepage" src="https://github.com/zcxw-code/xstore-for-umbrel-assets/raw/main/icons/homepage.svg" width="16">  Homepage            | 0.9.3   |
 | <img alt="IT Tools" src="https://github.com/zcxw-code/xstore-for-umbrel-assets/raw/main/icons/it-tools.svg" width="16">  IT Tools            | lastest | 
-| <img alt="G4F" src="https://github.com/zcxw-code/xstore-for-umbrel-assets/raw/main/icons/g4f.svg" width="16">  G4F                 | latest  | 
+| <img alt="G4F" src="https://github.com/zcxw-code/xstore-for-umbrel-assets/raw/main/icons/g4f.svg" width="16">  G4F                 | lastest  | 
 
