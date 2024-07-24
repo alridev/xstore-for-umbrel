@@ -1,0 +1,24 @@
+manifestVersion: 1
+id: xstore-portainer
+name: Portainer
+category: Developer Tools
+version: "2.20.3"
+tagline: Simplify Container Management Across Kubernetes and Docker
+icon: https://github.com/zcxw-code/xstore-for-umbrel-assets/raw/main/icons/portainer.svg
+description: >
+  Get up and running in just a few minutes with the industry's most user-friendly container management platform. Achieve seamless deployment, efficient monitoring, and secure operations with our intuitive interface and advanced features.
+
+developer: Portainer
+website: https://www.portainer.io
+dependencies: []
+repo: https://github.com/portainer/portainer
+support: https://www.portainer.io
+port: 3004
+gallery:
+  - https://i.imgur.com/Vgn2dDU.png
+path: ""
+defaultPassword: ""
+releaseNotes: > 
+  https://github.com/portainer/portainer
+submitter: zcxw-code
+submission:
