@@ -1,0 +1,8 @@
+info:
+  - name: XStore for UmbrelOS
+    description: Store for UmbrelOS
+    preview: https://i.imgur.com/QxMVXYI.png
+    tag: Other
+options:
+  - index: 99
+    hide: false
